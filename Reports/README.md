@@ -518,3 +518,7 @@ python3 -m matomerumi -if <input file> -of <output file>
 Слава инжграфу!
 
 * * *
+
+```
+Copyright 2022 Fe-Ti, ISCRA
+```
