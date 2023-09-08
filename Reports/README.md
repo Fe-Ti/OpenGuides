@@ -363,9 +363,9 @@ Thesauri for information retrieval. — URL: http://www.iso.org/iso/catalogue_de
 Шаблоны для LO по ГОСТу можно найти в репозитории:
 
 <div align="center">
-<a href="https://bmstu.codes/t.kravchenko/gost-ott" target="_blank"><img src="https://bmstu.codes/t.kravchenko/gost-ott/-/raw/master/GostOttLogo.png" height="90"/>
+<a href="https://github.com/Fe-Ti/GOST-OTT" target="_blank"><img src="https://bmstu.codes/t.kravchenko/gost-ott/-/raw/master/GostOttLogo.png" height="90"/>
 
-[GOST OTT](https://bmstu.codes/t.kravchenko/gost-ott)
+[GOST OTT](https://github.com/Fe-Ti/GOST-OTT)
 
 </div>
 
@@ -520,5 +520,5 @@ python3 -m matomerumi -if <input file> -of <output file>
 * * *
 
 ```
-Copyright 2022 Fe-Ti, ISCRA
+Copyright 2022-2023 Fe-Ti, ISCRA
 ```
