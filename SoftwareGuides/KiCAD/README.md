@@ -216,7 +216,5 @@
 
 
 ```
-Copyright 2022 Fe-Ti (t.kravchenko)
-
-Copyright 2022 ISCRA
+Copyright 2022-2023 Fe-Ti, ISCRA
 ```
